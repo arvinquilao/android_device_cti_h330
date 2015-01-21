@@ -190,34 +190,3 @@ persist.denoise.process.plates=0
 ro.sf.lcd_density=320
 #add by liaoyl 2014-04-19
 debug.composition.type=gpu
-
-#
-# ADDITIONAL_BUILD_PROPERTIES
-#
-keyguard.no_require_sim=true
-ro.com.android.dataroaming=false
-ro.com.android.dateformat=MM-dd-yyyy
-ro.carrier=unknown
-ro.config.alarm_alert=Alarm_Classic.ogg
-ro.vendor.extension_library=/vendor/lib/libqc-opt.so
-dalvik.vm.heapstartsize=8m
-dalvik.vm.heapgrowthlimit=96m
-dalvik.vm.heapsize=256m
-dalvik.vm.heaptargetutilization=0.75
-dalvik.vm.heapminfree=2m
-dalvik.vm.heapmaxfree=8m
-ro.config.ringtone=Cherry_Caribbean.mp3
-ro.config.ringtone_2=Cherry_ROCK.mp3
-ro.config.notification_sound=Cherry_Tone_1.mp3
-net.bt.name=Android
-dalvik.vm.stack-trace-file=/data/anr/traces.txt
-ro.qc.sdk.izat.premium_enabled=1
-ro.qc.sdk.izat.service_mask=0x5
-persist.gps.qc_nlp_in_use=0
-ro.gps.agps_provider=1
-
-# begin GMT FOTA properties
-ro.gmt.fota.brand=JSR
-ro.gmt.fota.model=H330
-ro.gmt.fota.version=Cherry_Razor2.0_V1.5_20140421
-# begin GMT FOTA properties
